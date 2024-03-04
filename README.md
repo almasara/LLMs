@@ -2,6 +2,7 @@
 
 sebuah tutorial atau projek yang membahas tentang cara membuat website chatbot menggunakan Large Language Model (LLM) sumber terbuka
 
-author :alma
+author 🤠
+alma
 program:Advamce Ai
 :)
